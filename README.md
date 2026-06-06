@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi 👋, I'm Anshika Mishra
 
-<!--
-**AnshikaMishra108/AnshikaMishra108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Third Year Student
 
-Here are some ideas to get you started:
+💻 Passionate about Programming and Problem Solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning:
+- Java
+- Python
+- JavaScript
+- Web Development
+
+🚀 Aspiring Software Developer
+
+## 🛠️ Languages & Tools
+
+Java | Python | HTML | CSS | Git | GitHub | JavaScript
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/anshika-mishra-037958341
+- Email: anshikamishra3101@gmail.com
+
+⭐ Thanks for visiting my profile!
